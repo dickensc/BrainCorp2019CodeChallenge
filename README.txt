@@ -1,7 +1,7 @@
 This project is a submission to the BrainCorp 2019 Code Challenge. The challenge is to parse the UNIX passwd and
 group files and combine the data into a single json output.
 
-To install the code, from the top directory, BrainCorp2019CodeChallenge/ run the following command in a terminal:
+To install the code, from the top directory, Dickens-Charles/ run the following command in a terminal:
 
 python3 setup.py install
 

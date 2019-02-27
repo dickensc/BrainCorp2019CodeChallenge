@@ -19,4 +19,4 @@ PasswordParser --help
 Will give the available optional arguments for the script and their descriptions.
 
 The default configurations of the program are defined in the top of the PasswordParser script and can be modified to
-change the output if it desired.
+change the output if desired.
